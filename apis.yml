@@ -1,0 +1,51 @@
+aid: bumble
+url: https://raw.githubusercontent.com/api-evangelist/bumble/refs/heads/main/apis.yml
+name: Bumble Inc
+type: Index
+kind: company
+description: >-
+  Bumble Inc. (NASDAQ: BMBL) is a global social-connection company that
+  operates a portfolio of consumer relationship apps including Bumble Date
+  (women-message-first dating), Bumble BFF (friendship matching), Bumble Bizz
+  (professional networking), Badoo (dating, international), and Fruitz (Gen-Z
+  dating, acquired 2022). The company is publicly traded and runs investor
+  relations, careers, and trust/safety operations at scale. Bumble is a
+  primarily consumer mobile and web product surface; no public developer or
+  partner API has been identified. This entry catalogs the company surface
+  for the API Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Dating
+  - Social Networking
+  - Consumer App
+  - Mobile
+  - Relationships
+  - Friendship
+  - Professional Networking
+  - Publicly Traded
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://bumble.com/
+  - type: Badoo
+    url: https://badoo.com/
+  - type: Fruitz
+    url: https://fruitz.io/
+  - type: TrustAndSafety
+    url: https://bumble.com/the-buzz/trust-and-safety
+  - type: Support
+    url: https://support.bumble.com/
+  - type: InvestorRelations
+    url: https://ir.bumble.com/
+  - type: Careers
+    url: https://team.bumble.com/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bumbleinc/
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
