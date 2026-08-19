@@ -38,7 +38,7 @@ tags:
   - Friendship
   - Professional Networking
   - Publicly Traded
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: VulnerabilityDisclosure
