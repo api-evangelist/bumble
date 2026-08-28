@@ -13,6 +13,17 @@ description: >-
   primarily consumer mobile and web product surface; no public developer or
   partner API has been identified. This entry catalogs the company surface
   for the API Evangelist index.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
