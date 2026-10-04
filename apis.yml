@@ -1,6 +1,6 @@
 aid: bumble
 url: https://raw.githubusercontent.com/api-evangelist/bumble/refs/heads/main/apis.yml
-name: Bumble Inc
+name: Bumble
 type: Index
 kind: company
 description: >-
@@ -42,6 +42,15 @@ modified: '2026-05-23'
 position: Consuming
 tags:
   - Dating
+  - Social Network
+  - Consumer App
+  - Mobile
+  - Relationships
+  - Friendship
+  - Professional Networking
+  - Publicly Traded
+tags_raw:
+  - Dating
   - Social Networking
   - Consumer App
   - Mobile
@@ -77,3 +86,4 @@ common:
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
+x-legal-name: Bumble Inc
